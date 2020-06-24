@@ -1,6 +1,6 @@
 Titler: SIMPLE OPENCART PASSWORD DECRYPTOR BASED ON WORD LIST
 Author: Taufik saputra
-Github: https://github.com/pabloverlly
+Github: https://github.com/taufiksptra
 
 USAGE:
 php opencript.php <HASH> <SALT> <WORDLIST>
